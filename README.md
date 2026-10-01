@@ -30,3 +30,5 @@ and NetBeans.
 4. Update the database connection credentials.
 5. Run the application.
 
+## Database Configuration
+Set the `DB_password` environment variable to your local MySQL root password before running the application.
