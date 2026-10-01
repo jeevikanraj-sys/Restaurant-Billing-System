@@ -237,7 +237,7 @@ public class BillingUI extends javax.swing.JFrame
 
             "root",
 
-            "password"
+            "DB-password"
 
         );
 
