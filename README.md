@@ -29,3 +29,4 @@ and NetBeans.
 3. Configure the MySQL database.
 4. Update the database connection credentials.
 5. Run the application.
+
